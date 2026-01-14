@@ -13,7 +13,7 @@ Atualmente estou cursando Sistemas de Informação na FAM Americana e atuo como 
             src="https://custom-icon-badges.demolab.com/github/stars/yurinascmnt05?color=8A2BE2&style=for-the-badge&labelColor=9400D3&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/yurinascmnt05?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
