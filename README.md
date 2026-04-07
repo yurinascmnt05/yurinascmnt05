@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Yuri Nascimento, tenho 20 anos e sou do interior de São Paulo.
 Concluí o ensino médio na ETEC Polivalente de Americana, juntamente com o curso técnico em Desenvolvimento de Sistemas. 
-Atualmente estou cursando Sistemas de Informação na FAM Americana e atuo como Analista de T.I em uma empresa da região. Sou um grande instusiasta de tecnologia e adoro buscar em códigos, soluções para problemas do dia a dia. No meu perfil do "[LinkedIn](https://www.linkedin.com/in/yurinscmnto/)", gosto de compartilhar, projetos, eventos, estudos e desafios que a vida de T.I trás.
+Atualmente estou cursando Sistemas de Informação na FAM Americana e atuo como Analista de T.I em uma empresa da região. Sou um grande entusiasta de tecnologia e adoro buscar em códigos, soluções para problemas do dia a dia. No meu perfil do "[LinkedIn](https://www.linkedin.com/in/yurinscmnto/)", gosto de compartilhar, projetos, eventos, estudos e desafios que a vida de T.I trás.
 
 <a href="https://github.com/yurinascmnt05?tab=repositories&sort=stargazers">
         <img 
