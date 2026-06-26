@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Olá! Meu nome é Yuri Nascimento, tenho 20 anos e sou do interior de São Paulo.
+Olá! Meu nome é Yuri Nascimento, tenho 21 anos e sou do interior de São Paulo.
 Concluí o ensino médio na ETEC Polivalente de Americana, juntamente com o curso técnico em Desenvolvimento de Sistemas. 
 Atualmente estou cursando Sistemas de Informação na FAM Americana e atuo como Analista de T.I em uma empresa da região. Sou um grande entusiasta de tecnologia e adoro buscar em códigos, soluções para problemas do dia a dia. No meu perfil do "[LinkedIn](https://www.linkedin.com/in/yurinscmnto/)", gosto de compartilhar, projetos, eventos, estudos e desafios que a vida de T.I trás.
 
